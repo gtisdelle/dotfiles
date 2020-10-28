@@ -8,7 +8,7 @@ set number relativenumber
 set nowrap
 set incsearch
 set laststatus=2
-set timeoutlen=100
+set timeoutlen=500
 
 set colorcolumn=80
 highlight ColorColumn ctermbg=0 guibg=lightgrey
