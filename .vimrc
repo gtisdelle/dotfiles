@@ -1,5 +1,6 @@
 syntax on
 
+set nocompatible
 set tabstop=4 softtabstop=4
 set shiftwidth=4
 set expandtab
@@ -8,7 +9,7 @@ set number relativenumber
 set nowrap
 set incsearch
 set laststatus=2
-set timeoutlen=500
+set timeoutlen=200
 
 set colorcolumn=80
 highlight ColorColumn ctermbg=0 guibg=lightgrey
