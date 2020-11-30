@@ -12,6 +12,7 @@ set laststatus=2
 set timeoutlen=200
 
 autocmd FileType javascript setlocal tabstop=2 softtabstop=2 shiftwidth=2
+autocmd FileType sql setlocal tabstop=2 softtabstop=2 shiftwidth=2
 
 call plug#begin('~/.vim/plugged')
 
